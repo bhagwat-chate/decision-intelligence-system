@@ -96,13 +96,7 @@ decision-intelligence-system/
 
 ## Deployment Architecture
 
-DIS follows a **hybrid cloud execution model**:
-
-Here is a **point-wise, concise, README-ready version**, optimized for quick scanning:
-
----
-
-## Deployment Architecture
+DIS follows a **hybrid cloud execution model**. Here is a **point-wise, concise, README-ready version**, optimized for quick scanning:
 
 * **Cloud:** AWS
 * **Ingestion:** Amazon S3 triggers **Lambda** for input validation and normalization
@@ -144,8 +138,8 @@ Here is a **point-wise, concise, README-ready version**, optimized for quick sca
 
 ## Disclaimer
 
-This repository is an **independently developed portfolio project**, created to demonstrate **system architecture and decision governance design patterns**.
-It does **not** contain proprietary code, data, or implementations from any employer or client.
+*This repository is an **independently developed portfolio project**, created to demonstrate **system architecture and decision governance design patterns**.
+It does **not** contain proprietary code, data, or implementations from any employer or client, not even open source projects*
 
 ---
 
