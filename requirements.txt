@@ -1,0 +1,5 @@
+structlog
+pydantic_settings
+boto3
+psycopg2
+pydantic-settings[dotenv]
