@@ -50,7 +50,7 @@ class CustomLogger:
         )
 
 
-if __name__ == "__main__":
-    logger = CustomLogger().get_logger(__file__)
-    logger.info('scoring started', user_id="ABC123", filename="report.pdf")
-    logger.error("Error in scoring", error="File not found", user_id=123)
+# if __name__ == "__main__":
+#     logger = CustomLogger().get_logger(__file__)
+#     logger.info('scoring started', user_id="ABC123", filename="report.pdf")
+#     logger.error("Error in scoring", error="File not found", user_id=123)
